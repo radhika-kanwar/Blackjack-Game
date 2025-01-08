@@ -42,7 +42,8 @@ To play a hand of Blackjack, follow these steps:
 
 ## Game Snapshots
 
-![Game Window](photos/game-window.png)
+<img src="photos/game-window.png" alt="Game Window" width="40%" height="auto">
+
 ![Message box with an error message](photos/error1.png)
 ![Message box with an error message](photos/error2.png)
 ![Initial cards from a game](photos/initial-cards.png)
