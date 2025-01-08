@@ -44,7 +44,8 @@ To play a hand of Blackjack, follow these steps:
 
 <img src="photos/game-window.png" alt="Game Window" width="40%" height="auto">
 
-![Message box with an error message](photos/error1.png)
+<img src="photos/error1.png" alt="Error message" width="40%" height="auto">
+
 ![Message box with an error message](photos/error2.png)
 ![Initial cards from a game](photos/initial-cards.png)
 ![Message box displaying the result](photos/player-wins.png)
